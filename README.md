@@ -24,5 +24,6 @@
 
 Пример результата работы кода:
 
-![Uploading Снимок экрана 2023-02-27 в 09.09.28.png…]()
+<img width="602" alt="Снимок экрана 2023-02-27 в 09 09 28" src="https://user-images.githubusercontent.com/86431195/221508751-a4386da9-2067-4eba-8d0d-a422d82a334a.png">
+
 
